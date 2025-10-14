@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "un serveur http",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraxoo/nodejs-http-annexe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraxoo/nodejs-http-annexe/issues"
+  },
+  "homepage": "https://github.com/Fraxoo/nodejs-http-annexe#readme",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
